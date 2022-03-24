@@ -4,10 +4,10 @@
       "when": {
         "OR": [
           {
-            "west": "none",
             "east": "none",
-            "south": "none",
-            "north": "none"
+            "north": "none",
+            "west": "none",
+            "south": "none"
           },
           {
             "east": "side|up",
